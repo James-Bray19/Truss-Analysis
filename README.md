@@ -45,4 +45,4 @@ First, download the latest release and run the `.exe` file
 
 - This software is admittedly an unfinished project before switching to topology optimisation for my A-Level project
 - Please don't expect accuracy or user-friendly features, I just use this code to gauge how trusses roughly deform
-- The code provided is not standalone, 
+- The code provided is to show to demonstrate how the software works, please request full project if interested
