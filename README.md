@@ -19,6 +19,8 @@ The Truss Analyzer 2D is a Unity-based software tool designed for analyzing 2D t
 
 ## How to Use
 
+First, download the latest release and run the `.zip` file
+
 1. **Material Selector:**
    - Use the dropdown menu to select different material properties for elements.
 
@@ -42,4 +44,5 @@ The Truss Analyzer 2D is a Unity-based software tool designed for analyzing 2D t
 ## Limitations
 
 - This software is admittedly an unfinished project before switching to topology optimisation for my A-Level project
-- Please don't expect accuracy or user-friendly features, I just use this code to gauge how trusses roughly deform 
+- Please don't expect accuracy or user-friendly features, I just use this code to gauge how trusses roughly deform
+- The code provided is not standalone, 
