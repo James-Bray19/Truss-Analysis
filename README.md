@@ -19,7 +19,7 @@ The Truss Analyzer 2D is a Unity-based software tool designed for analyzing 2D t
 
 ## How to Use
 
-First, download the latest release and run the `.zip` file
+First, download the latest release and run the `.exe` file
 
 1. **Material Selector:**
    - Use the dropdown menu to select different material properties for elements.
